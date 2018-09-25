@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 aaaaaaa
 =======
 Creating a new branch is quick and simple.
@@ -8,4 +9,12 @@ this is a BUG and bug
 加上一行 -- is on github
 what a amazing moment
 三营长开炮
+>>>>>>> dev
+=======
+aaaaaaa
+Creating a new branch is quick and simple.
+do what you want:
+this is a BUG and b
+三营长开炮
+
 >>>>>>> dev
